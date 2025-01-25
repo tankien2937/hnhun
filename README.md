@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -65,7 +64,7 @@
 </head>
 <body>
     <button class="button" onclick="showMessage()">Bấm vào điiii</button>
-    <p class="message">Anh xin lỗi bé nhiều ạaaaa.Từ giờ anh hổng làm z nữa đâu anh hứa.Bé đừng giận anh nữa nhaaaaaa</p>
+    <p class="message">Anh xin lỗi bé rấc rấc rấc nhiều ạaaaa.Từ giờ anh hổng làm vậy nữa đâu anh hứa.Bé đừng giận anh nữa mà huhu</p>
     <p class="heart">😭</p>
     <script>
         function showMessage() {
